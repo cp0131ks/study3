@@ -188,7 +188,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/amp_exp3/qamp.js'], function(APICo
 				nameForLogging : 'Neutral_1', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				    {word : '女性は準備に時間がかかる'}
+				    {word : 'こたつは暖房器具だ'}
 				]
 			},
 			{
@@ -196,7 +196,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/amp_exp3/qamp.js'], function(APICo
 				nameForLogging : 'Neutral_2', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [ 
-					{word : '女性は力が弱い'}
+					{word : '消しゴムは文房具だ'}
 				]
 			},
 			{
@@ -204,7 +204,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/amp_exp3/qamp.js'], function(APICo
 				nameForLogging : 'Neutral_3', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '女性は美意識が高い'}
+					{word : '車は移動手段だ'}
 				]
 			},
 			{
@@ -212,7 +212,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/amp_exp3/qamp.js'], function(APICo
 				nameForLogging : 'Neutral_4', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '女性は綺麗な物が好き'}
+					{word : '車にはタイヤがある'}
 				]
 			},
 			{
@@ -220,7 +220,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/amp_exp3/qamp.js'], function(APICo
 				nameForLogging : 'Neutral_5', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '女性はやわらかい'}
+					{word : 'ドーナツは甘い'}
 				]
 			},
 			{
@@ -228,7 +228,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/amp_exp3/qamp.js'], function(APICo
 				nameForLogging : 'Neutral_6', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [ 
-					{word : '女性は火事をしないといけない'}
+					{word : 'こたつは冬の定番だ'}
 				]
 			},
 			{
@@ -236,28 +236,28 @@ define(['pipAPI', 'https://cp0131ks.github.io/amp_exp3/qamp.js'], function(APICo
 				nameForLogging : 'Neutral_7', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '女性は泣けば良いと考えている'}
+					{word : 'こたつは冬に使う'}
 				]
 			},
 			{	nameForFeedback : 'Neutral_8',  //Will be use
 				nameForLogging : 'Neutral_8', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '女性はぶりっ子である'}
+					{word : 'ドーナツはお菓子だ'}
 				]
 			},
 			{	nameForFeedback : 'Neutral_9',  //Will be use
 				nameForLogging : 'Neutral_9', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '女性はメンヘラである'}
+					{word : '川の水は冷たい'}
 				]
 			},
 			{	nameForFeedback : 'Neutral_10',  //Will be use
 				nameForLogging : 'Neutral_10', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '女性はメンヘラである'}
+					{word : 'ドーナツはおやつだ'}
 				]
 			},
 			
