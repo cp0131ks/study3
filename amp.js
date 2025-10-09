@@ -398,7 +398,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study3/qamp.js'], function(APICons
 		],
 
 		base_url : {//Where are your images at?
-			image : 'https://cp0131ks.github.io/amp_exp3/image'
+			image : 'https://cp0131ks.github.io/study3/image'
 		}
 	});
 });
