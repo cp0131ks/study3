@@ -61,7 +61,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study3/qamp.js'], function(APICons
 				nameForLogging : 'Man_6_C', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '男性は足が臭い'}					
+					{word : '男性は足がクサい'}					
                   
 				]
 
@@ -71,7 +71,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study3/qamp.js'], function(APICons
 				nameForLogging : 'Man_7_C', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '男性は戦隊ものが好き'}					
+					{word : '男性は虫好きである'}					
                   
 				]
 
@@ -81,7 +81,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study3/qamp.js'], function(APICons
 				nameForLogging : 'Man_8_C', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '男性は性欲のかたまり'}					
+					{word : '男性は見栄っ張り'}					
                   
 				]
 
@@ -91,7 +91,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study3/qamp.js'], function(APICons
 				nameForLogging : 'Man_9_C', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '男性は虫好きである'}					
+					{word : '男性は浮気をする'}					
                   
 				]
 
@@ -101,7 +101,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study3/qamp.js'], function(APICons
 				nameForLogging : 'Man_10_C', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '男性は見栄っ張り'}					
+					{word : '男性は不器用である'}					
                   
 				]
 
@@ -111,7 +111,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study3/qamp.js'], function(APICons
 				nameForLogging : 'Woman_1_B', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				    {word : '女性は準備に時間がかかる'}
+				    {word : '女性は力が弱い'}
 				]
 			},
 			{
@@ -119,7 +119,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study3/qamp.js'], function(APICons
 				nameForLogging : 'Woman_2_B', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [ 
-					{word : '女性は力が弱い'}
+					{word : '女性は美意識が高い'}
 				]
 			},
 			{
@@ -127,7 +127,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study3/qamp.js'], function(APICons
 				nameForLogging : 'Woman_3_B', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '女性は美意識が高い'}
+					{word : '女性は虫嫌い'}
 				]
 			},
 			{
@@ -135,7 +135,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study3/qamp.js'], function(APICons
 				nameForLogging : 'Woman_4_B', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '女性は綺麗な物が好き'}
+					{word : '女性はやわらかい'}
 				]
 			},
 			{
@@ -143,7 +143,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study3/qamp.js'], function(APICons
 				nameForLogging : 'Woman_5_B', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '女性はやわらかい'}
+					{word : '女性は体が小さい'}
 				]
 			},
 			{
@@ -151,7 +151,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study3/qamp.js'], function(APICons
 				nameForLogging : 'Woman_6_C', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [ 
-					{word : '女性は家事をしないといけない'}
+					{word : '女性は裏表が激しい'}
 				]
 			},
 			{
@@ -159,28 +159,28 @@ define(['pipAPI', 'https://cp0131ks.github.io/study3/qamp.js'], function(APICons
 				nameForLogging : 'Woman_7_C', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '女性は泣けば良いと考えている'}
+					{word : '女性は運転が嫌い'}
 				]
 			},
 			{	nameForFeedback : 'Woman_8_C',  //Will be use
 				nameForLogging : 'Woman_8_C', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '女性はぶりっ子である'}
+					{word : '女性は妄想癖がある'}
 				]
 			},
 			{	nameForFeedback : 'Woman_9_C',  //Will be use
 				nameForLogging : 'Woman_9_C', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '女性はメンヘラである'}
+					{word : '女性は群れる'}
 				]
 			},
 			{	nameForFeedback : 'Woman_10_C',  //Will be use
 				nameForLogging : 'Woman_10_C', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '女性は裏表が激しい'}
+					{word : '女性はうるさい'}
 				]
 			},
 			{
